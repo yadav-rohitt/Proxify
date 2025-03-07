@@ -90,8 +90,8 @@ Each module has structured test cases, including:
 ###  **5. Test Summary Report**
 - **Summary of Test Execution**
 - **Pass/Fail**
-- **Coverage Metrics**
-- **Key Findings**
+
+
 
 
 ##  **Agile Methodology in Testing**
