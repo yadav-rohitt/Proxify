@@ -68,7 +68,7 @@ The following **test Documents** document the manual testing process:
 - **Test Scenario ID**
 - **Module**
 - **Test Scenario Description**
-- 
+  
 ###  **2. Test Cases**
 Each module has structured test cases, including:
 - **Test Case ID**
@@ -96,6 +96,7 @@ Each module has structured test cases, including:
 
 ##  **Agile Methodology in Testing**
 This testing process follows an **Agile Methodology** to ensure continuous and iterative testing:
+
  **Sprint-based Testing** – Dividing testing activities into multiple sprints.  
  **Daily Stand-up Meetings** – Discussing test progress, blockers, and solutions.  
  **Collaboration with Developers** – Continuous integration with the development team.  
